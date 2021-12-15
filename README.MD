@@ -25,3 +25,13 @@ Parcel Weight (kg)   Cost per kg ($)
 - 2.5–5 kg 		$2.85 per kg 
 - >5-7 kg 		$2.45 per kg 
 - >7 			$3.25 per kg
+
+
+## Question 5:    ##
+
+*A home mortgage authority requires a deposit on a home loan according to the following schedule:*
+*Loan $ 		Deposit*
+*less than $25 000  	5% of the loan value* 
+*$25 000–$49 999 	$1250 + 10% of loan over $25 000* 
+*$50 000–$100 000 	$5000 + 25% of loan over $50 000*
+
